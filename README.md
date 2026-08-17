@@ -1,8 +1,8 @@
 # Track 1 - Day 17: Finding and Validating Pain Points
 
 ## 1. Thông tin cá nhân và nhóm
-* **MHV:** 2A202601501
-* **Họ tên:** Nguyễn Đặng Kỳ Anh
+* **MHV:** 2A202601063
+* **Họ tên:** Nguyễn Đức Anh
 * **Tên nhóm:** chim sẻ đi nắng
 * **Thành viên:**
   * Đặng Đức Hòa - `2A202601351`

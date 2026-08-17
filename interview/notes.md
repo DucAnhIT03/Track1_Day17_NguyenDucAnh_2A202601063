@@ -6,9 +6,9 @@
 
 ---
 
-## Người tham gia 1
+## Người tham gia 1 
 
-**Mã người tham gia:** Đặng Đức Hòa — `2A202601351` · **Đúng tiêu chí tuyển:** Có
+**Mã người tham gia:** Nguyễn Đức Anh — `2A202601063` · **Đúng tiêu chí tuyển:** Có
 
 | Điều cần giữ lại | Ghi chép |
 |---|---|
@@ -22,7 +22,7 @@
 
 ## Người tham gia 2
 
-**Mã người tham gia:** Nguyễn Đức Anh — `2A202601063` · **Đúng tiêu chí tuyển:** Có
+**Mã người tham gia:** Đặng Đức Hòa — `2A202601351` · **Đúng tiêu chí tuyển:** Có
 
 | Điều cần giữ lại | Ghi chép |
 |---|---|
